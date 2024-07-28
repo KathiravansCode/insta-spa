@@ -1,0 +1,46 @@
+const Users = [
+    {
+      username: "tech_guru",
+      followers: 1500,
+      following: 300,
+      profilePicture: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+      profession: "Engineer",
+      description: "Loves solving problems and exploring new technologies."
+    },
+    {
+      username: "art_lover",
+      followers: 2000,
+      following: 150,
+      profilePicture: "https://images.unsplash.com/photo-1544717305-2782549b5136",
+      profession: "Artist",
+      description: "Passionate about capturing the world's beauty in art."
+    },
+    {
+      username: "nature_doc",
+      followers: 1800,
+      following: 400,
+      profilePicture: "https://images.unsplash.com/photo-1621165307542-855e1b6e7e53?q=80&w=1951&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      profession: "Doctor",
+      description: "Dedicated to helping others and exploring nature."
+    },
+    {
+      username: "story_teller",
+      followers: 2500,
+      following: 500,
+      profilePicture: "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+      profession: "Writer",
+      description: "Crafts stories and enjoys strategic board games."
+    },
+    {
+      username: "foodie_chef",
+      followers: 2200,
+      following: 350,
+      profilePicture: "https://images.unsplash.com/photo-1525351484163-7529414344d8",
+      profession: "Chef",
+      description: "Creates delicious dishes and practices mindfulness."
+    }
+  ];
+  
+  
+
+  export default Users;
